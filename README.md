@@ -27,5 +27,5 @@
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=voidCrest-mayur&theme=merko&hide_border=true&background=1A2B34&stroke=6B8E23&ring=6B8E23&fire=6B8E23&currStreakNum=9ACD32&sideNums=9ACD32&currStreakLabel=6B8E23&sideLabels=6B8E23&dates=9ACD32)
 
 ## 📬 Contact
-[LinkedIn](https://linkedin.com/in/tarunrastogi) | [Email](mailto:rastogitarun9@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/tarun-mayur/) | [Email](mailto:rastogitarun9@gmail.com)  
 ![Profile Views](https://komarev.com/ghpvc/?username=voidCrest-mayur&color=6B8E23&label=Views)
