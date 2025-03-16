@@ -1,12 +1,12 @@
 # Tarun Rastogi | Code Operative
-[![Code Mission Control](https://github.com/voidCrest-mayur/voidCrest-mayur/blob/main/assets/banner.png)](https://github.com/voidCrest-mayur)  
+[![Code Mission Control](https://github.com/voidCrest-mayur/voidCrest-mayur/raw/main/assets/banner.png)](https://github.com/voidCrest-mayur)  
 *Full Stack Developer with 2+ years at HCL Tech (IKEA). Specializing in scalable solutions with Java, React.js, JavaScript, and Python.*
 
 ## 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/-Java-4B5320?style=flat-square&logo=java&color=4B5320) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-4B5320?style=flat-square&logo=javascript&color=4B5320) 
-![Python](https://img.shields.io/badge/-Python-4B5320?style=flat-square&logo=python&color=4B5320)
-![React.js](https://img.shields.io/badge/-React.js-4B5320?style=flat-square&logo=react&color=4B5320) 
+![Java](https://img.shields.io/badge/-Java-4B5320?style=flat-square&logo=java&color=4B5320) 
+![Python](https://img.shields.io/badge/-Python-4B5320?style=flat-square&logo=python&color=4B5320) 
+![React.js](https://img.shields.io/badge/-React.js-4B5320?style=flat-square&logo=react&color=4B5320)
 
 ## 💻 Featured Projects
 - **[Jewellery Shop App](https://github.com/voidCrest-mayur/jewellery-shop)**  
