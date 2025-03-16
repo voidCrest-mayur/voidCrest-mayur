@@ -4,9 +4,9 @@
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/-Java-4B5320?style=flat-square&logo=java&color=4B5320) 
-![React.js](https://img.shields.io/badge/-React.js-4B5320?style=flat-square&logo=react&color=4B5320) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-4B5320?style=flat-square&logo=javascript&color=4B5320) 
 ![Python](https://img.shields.io/badge/-Python-4B5320?style=flat-square&logo=python&color=4B5320)
+![React.js](https://img.shields.io/badge/-React.js-4B5320?style=flat-square&logo=react&color=4B5320) 
 
 ## 💻 Featured Projects
 - **[Jewellery Shop App](https://github.com/voidCrest-mayur/jewellery-shop)**  
