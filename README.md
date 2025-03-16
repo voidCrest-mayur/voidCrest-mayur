@@ -6,7 +6,15 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-4B5320?style=flat-square&logo=javascript&color=4B5320) 
 ![Java](https://img.shields.io/badge/-Java-4B5320?style=flat-square&logo=java&color=4B5320) 
 ![Python](https://img.shields.io/badge/-Python-4B5320?style=flat-square&logo=python&color=4B5320) 
+![C](https://img.shields.io/badge/-C-4B5320?style=flat-square&logo=c&color=4B5320)
 ![React.js](https://img.shields.io/badge/-React.js-4B5320?style=flat-square&logo=react&color=4B5320)
+![Django](https://img.shields.io/badge/-Django-4B5320?style=flat-square&logo=django&color=4B5320)
+![SQL](https://img.shields.io/badge/-SQL-4B5320?style=flat-square&logo=postgresql&color=4B5320) 
+![HTML](https://img.shields.io/badge/-HTML-4B5320?style=flat-square&logo=html5&color=4B5320) 
+![CSS](https://img.shields.io/badge/-CSS-4B5320?style=flat-square&logo=css3&color=4B5320) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-4B5320?style=flat-square&logo=bootstrap&color=4B5320) 
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-4B5320?style=flat-square&logo=tailwind-css&color=4B5320)
+
 
 ## 💻 Featured Projects
 - **[Jewellery Shop App](https://github.com/voidCrest-mayur/jewellery-shop-app)**  
