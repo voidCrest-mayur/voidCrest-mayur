@@ -29,14 +29,14 @@
 ![Followers](https://img.shields.io/github/followers/voidCrest-mayur?style=flat-square&label=Followers&color=6B8E23)  
 ![Last Push](https://img.shields.io/github/last-commit/voidCrest-mayur/voidCrest-mayur?style=flat-square&label=Last+Push&color=6B8E23)
 
-## 🏆 Certifications
-- **Introduction to Programming Using Python** | Microsoft Technology Associate | [Verify](https://verify.certiport.com/RUdr-4TpH)
-- **Machine Learning with AI Using Python** | Knowledge Solution India | Reg. No: KSI-ML-2703-0805-1553Q
-
 ## 🔧 Developer Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=voidCrest-mayur&show_icons=true&theme=merko&hide_border=true&bg_color=1A2B34&title_color=6B8E23&text_color=9ACD32&icon_color=6B8E23)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voidCrest-mayur&layout=compact&theme=merko&hide_border=true&bg_color=1A2B34&title_color=6B8E23&text_color=9ACD32&icon_color=6B8E23)  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=voidCrest-mayur&theme=merko&hide_border=true&background=1A2B34&stroke=6B8E23&ring=6B8E23&fire=6B8E23&currStreakNum=9ACD32&sideNums=9ACD32&currStreakLabel=6B8E23&sideLabels=6B8E23&dates=9ACD32)
+
+## 🏆 Certifications
+- **Introduction to Programming Using Python** | Microsoft Technology Associate | [Verify](https://verify.certiport.com/RUdr-4TpH)
+- **Machine Learning with AI Using Python** | Knowledge Solution India | Reg. No: KSI-ML-2703-0805-1553Q
 
 ## 📬 Contact
 [LinkedIn](https://www.linkedin.com/in/tarun-mayur/) | [Email](mailto:rastogitarun9@gmail.com)  
