@@ -9,7 +9,7 @@
 ![React.js](https://img.shields.io/badge/-React.js-4B5320?style=flat-square&logo=react&color=4B5320)
 
 ## 💻 Featured Projects
-- **[Jewellery Shop App](https://github.com/voidCrest-mayur/jewellery-shop-app)**  
+- **[Jewellery Shop App](https://github.com/voidCrest-mayur/jewellery-shop)**  
   Responsive e-commerce platform built with React.js & JSON-Server.  
   ![Stars](https://img.shields.io/github/stars/voidCrest-mayur/jewellery-shop?style=social&label=Stars&color=6B8E23)
 - **[Portfolio Site](https://github.com/voidCrest-mayur/portfolio)**  
