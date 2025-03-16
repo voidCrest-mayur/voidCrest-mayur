@@ -1,5 +1,5 @@
 # Tarun Rastogi | Code Operative
-[![Code Mission Control](https://via.placeholder.com/800x200.png?text=Code+Mission+Control)](https://github.com/voidCrest-mayur)  
+[![Code Mission Control](https://github.com/voidCrest-mayur/voidCrest-mayur/blob/main/assets/banner.png)]  
 *Full Stack Developer with 2+ years at HCL Tech (IKEA). Specializing in scalable solutions with Java, React.js, JavaScript, and Python.*
 
 ## 🛠️ Tech Stack
