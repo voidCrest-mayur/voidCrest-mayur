@@ -1,31 +1,31 @@
-# Hey, I’m Tarun Rastogi! 👋
-[![Mechanical Banner](https://via.placeholder.com/800x200.png?text=Mechanical+UI+Background)](https://github.com/voidCrest-mayur)  
-*Full Stack Developer with 2+ years at HCL Tech (IKEA), building scalable apps with Java, React.js, JavaScript, and Python.*
+# Agent Tarun Rastogi | I.G.I. Operative 👤
+[![IGI Mission Brief](https://via.placeholder.com/800x200.png?text=Project+IGI+Mission+Zone)](https://github.com/voidCrest-mayur)  
+*Full Stack Developer with 2+ years at HCL Tech (IKEA). Mission: Build scalable apps with Java, React.js, JavaScript, and Python.*
 
-## 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&color=gray) 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&color=gray) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&color=gray) 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&color=gray)
+## 🗡️ Tech Arsenal
+![Java](https://img.shields.io/badge/-Java-4B5320?style=flat-square&logo=java&color=4B5320) 
+![React](https://img.shields.io/badge/-React-4B5320?style=flat-square&logo=react&color=4B5320) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-4B5320?style=flat-square&logo=javascript&color=4B5320) 
+![Python](https://img.shields.io/badge/-Python-4B5320?style=flat-square&logo=python&color=4B5320)
 
-## 🌟 Featured Projects
+## 🎯 Active Missions
 - **[Jewellery Shop App](https://github.com/voidCrest-mayur/jewellery-shop)**  
-  E-commerce app with React.js & JSON-Server.  
-  ![Repo Stars](https://img.shields.io/github/stars/voidCrest-mayur/jewellery-shop?style=social)
+  Stealth e-commerce op with React.js & JSON-Server.  
+  ![Mission Stars](https://img.shields.io/github/stars/voidCrest-mayur/jewellery-shop?style=social&label=Intel&color=6B8E23)
 - **[Portfolio Site](https://github.com/voidCrest-mayur/portfolio)**  
-  Dynamic site built with Django and JavaScript.  
-  ![Repo Stars](https://img.shields.io/github/stars/voidCrest-mayur/portfolio?style=social)
+  Covert site extraction with Django and JavaScript.  
+  ![Mission Stars](https://img.shields.io/github/stars/voidCrest-mayur/portfolio?style=social&label=Intel&color=6B8E23)
 
-## 🚀 Current Status
-![GitHub Status](https://img.shields.io/github/commit-activity/w/voidCrest-mayur/voidCrest-mayur?style=flat-square&label=Activity&color=steelblue)  
-![Followers](https://img.shields.io/github/followers/voidCrest-mayur?style=flat-square&label=Followers&color=olive)  
-![Last Commit](https://img.shields.io/github/last-commit/voidCrest-mayur/voidCrest-mayur?style=flat-square&label=Last%20Update&color=rust)
+## 📡 Operative Status
+![Mission Activity](https://img.shields.io/github/commit-activity/w/voidCrest-mayur/voidCrest-mayur?style=flat-square&label=Ops&color=6B8E23)  
+![Squad Size](https://img.shields.io/github/followers/voidCrest-mayur?style=flat-square&label=Allies&color=6B8E23)  
+![Last Contact](https://img.shields.io/github/last-commit/voidCrest-mayur/voidCrest-mayur?style=flat-square&label=Last+Drop&color=6B8E23)
 
-## 📊 GitHub Stats
-![Tarun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=voidCrest-mayur&show_icons=true&theme=gruvbox&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voidCrest-mayur&layout=compact&theme=gruvbox&hide_border=true)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=voidCrest-mayur&theme=gruvbox&hide_border=true)
+## 🔍 Field Intel
+![Agent Stats](https://github-readme-stats.vercel.app/api?username=voidCrest-mayur&show_icons=true&theme=merko&hide_border=true&bg_color=1A2B34&title_color=6B8E23&text_color=9ACD32&icon_color=6B8E23)  
+![Tech Loadout](https://github-readme-stats.vercel.app/api/top-langs/?username=voidCrest-mayur&layout=compact&theme=merko&hide_border=true&bg_color=1A2B34&title_color=6B8E23&text_color=9ACD32&icon_color=6B8E23)  
+![Streak Recon](https://github-readme-streak-stats.herokuapp.com/?user=voidCrest-mayur&theme=merko&hide_border=true&background=1A2B34&stroke=6B8E23&ring=6B8E23&fire=6B8E23&currStreakNum=9ACD32&sideNums=9ACD32&currStreakLabel=6B8E23&sideLabels=6B8E23&dates=9ACD32)
 
-## 📫 Connect
+## 📞 Comm Link
 [LinkedIn](https://linkedin.com/in/tarunrastogi) | [Email](mailto:rastogitarun9@gmail.com)  
-![Profile Views](https://komarev.com/ghpvc/?username=voidCrest-mayur&color=steelblue)
+![Field Observers](https://komarev.com/ghpvc/?username=voidCrest-mayur&color=6B8E23&label=Scouts)
